@@ -34,4 +34,3 @@ for i = 1, 100 do
 		onRender = onRowRender,
 		listener = listener	}	
 end
-
